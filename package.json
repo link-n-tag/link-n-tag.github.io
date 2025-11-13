@@ -1,0 +1,14 @@
+{
+  "name": "link-tag",
+  "version": "1.0.0",
+  "description": "A simple website to store weblinks",
+  "scripts": {
+    "start": "cd client && npm start",
+    "build": "cd client && npm run build",
+    "install-client": "cd client && npm install",
+    "deploy": "cd client && npm run deploy"
+  },
+  "keywords": ["links", "bookmarks", "weblinks"],
+  "author": "",
+  "license": "MIT"
+}
