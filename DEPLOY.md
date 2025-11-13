@@ -6,6 +6,7 @@ This project uses GitHub Actions to automatically deploy to GitHub Pages wheneve
 
 ### Setup (One-time)
 
+
 1. **Enable GitHub Pages in your repository**:
    - Go to your GitHub repository: https://github.com/danielsussa/link-n-tag
    - Click on **Settings** → **Pages**
