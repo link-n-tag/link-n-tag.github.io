@@ -27,8 +27,8 @@ jobs:
         with:
           submodules: true
 
-      - name: Update submodules to latest commit
-        run: git submodule update --remote --merge
+      # - name: Update submodules to latest commit
+      #   run: git submodule update --remote --merge
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
